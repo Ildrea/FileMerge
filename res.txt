@@ -1,0 +1,1379 @@
+HD_TEXT
+
+[font "System\\Verdana.ttf", height 18, align right]
+To Security Chief M.Taggart
+
+[align left, indent 25]
+We would like to notify you that on 14th of October, 30km south of Dankas, a Search & Rescue Team found Worthington’s delivery group shuttle No.1356777KE crashed. The delivery group's remains and the cargo were recovered from the site. 
+
+The initial investigation suggests the flight stabiliser's malfunction as a possible reason for the shuttle crash. A special commission was assembled at the initiative of the NSola coordinating council. Sabotage is possible.
+
+In relation to Worthington’s delivery group's death and Research Group Chief Creighton’s death preceding it, the rival company attack should be considered highly probable. The hazard level is recommended to be raised up to the 3rd.
+
+Shansky’s delivery group has been placed under your command to replace Worthington’s group. The dossier is attached. 
+
+
+[align right]
+NSola Coordinator I.Hurrigan
+
+
+HD_TEXT
+
+[font "System\\Verdana.ttf", height 18, align left, indent 25]
+We inform you of Research Group Chief Creighton being found dead in his apartment. Investigation under way.
+
+Janek Sisek is acting Research Group Chief.
+
+[align right]
+NSola Coordinator I.Hurrigan
+
+
+HD_TEXT
+
+[font "System\\Russo_one.ttf", height 18, align left]
+J.Dekker:
+
+[font "System\\Verdana.ttf", height 18, align left, indent 25]
+Prompt report of an accident.
+
+On 26th of September, one of the items attempted to escape. During apprehension, an accident occurred. As a result, 12 security bots were put out of service, the technical infrastructure of the facility was damaged and the chief migration engineer was killed. 
+Engineering service is suspended. 
+Production is expected to be delayed for 2-3 weeks. 
+
+
+[font "System\\Russo_one.ttf", height 18, align left, indent 0]
+I.Hurrigan:
+
+[font "System\\Verdana.ttf", height 18, align left, indent 25]
+Taking into account the Q4 increasing orders from big clients, output reduction is unacceptable. 
+
+
+[font "System\\Russo_one.ttf", height 18, align left, indent 0]
+J.Dekker:
+
+[font "System\\Verdana.ttf", height 18, align left, indent 25]
+Regarding unacceptance of output reduction, I request permission to raise the risk level for delivery groups.
+
+
+[font "System\\Russo_one.ttf", height 18, align left, indent 0]
+I.Hurrigan:
+
+[font "System\\Verdana.ttf", height 18, align left, indent 25]
+Permission granted.
+
+
+HD_TEXT
+
+[font "System\\Russo_one.ttf", height 18, align left]
+J.Dekker: 
+[font "System\\Verdana.ttf", height 18, align left, indent 25]
+The research of the abnormal HD512 item has reached a deadlock. Further work using our equipment is useless. Full technical report of the cerebral research is attached.
+
+[font "System\\Russo_one.ttf", height 18, align left, indent 0]
+I.Hurrigan: 
+[font "System\\Verdana.ttf", height 18, align left, indent 25]
+The research is examined. Additional research is required due to all of the line-up's possible defects. Prepare the abnormal item for transporting to the headquarters by the closest transport.
+
+
+HD_TEXT
+
+[font "System\\Verdana.ttf", height 18, align right]
+To Executive Chief J.Dekker
+
+[font "System\\Russo_one.ttf", height 20, align center]
+Report of an incident on 26th of September
+
+[font "System\\Verdana.ttf", align left, height 18, indent 25]
+In the evening of 26th of September the HD512 item, maintained by the private zone, tried to escape from the barracks section. It immobilized the staff at gunpoint, blew up the wall of the sanitary area with the help of an I.E.D. and broke into technical tunnels where it faced security bots. 
+
+The high power switchboard No.124 was damaged in the crossfire and it led to its detonation and a partial collapse of the structure.
+
+
+The result is:
+
+[indent 0, left 50]
+1. Equipment in 3 rooms of the engineering section was damaged.
+
+2. 12 security bots were put out of service.
+
+3. Technical tunnels No.17 and No.42 were blocked.
+
+4. Infrastructure is damaged.
+
+5. Chief Migration Engineer Wolf was in the south corridor at the moment of the collapse and was killed under the rubble. In place of the deceased engineer Wolf, his trainee engineer Skinner was appointed.
+
+
+[indent 25, left 0]
+The circumstances of the escape are under investigation by detective Jensen now.
+
+Overall damage is being estimated.
+
+As the equipment and infrastructure were damaged, production delays up to 7 days are possible.
+
+[align right]
+Technical Chief I.Freeman
+
+
+HD_TEXT
+
+[font "System\\Russo_one.ttf", height 20, align center]
+Memo for the staff
+
+[font "System\\Verdana.ttf", height 18, align left]
+Specially for you idiots, a reminder of the main reagents labelling:
+
+[left 50]
+Acyn - Red
+
+Genum - Purple
+
+Ferbyn - Yellow
+
+Threol - Blue
+
+Triptyn - Orange
+
+Flur - Green
+
+
+[left 0, align right]
+Pharmacist W.Gunger
+
+
+HD_TEXT
+
+[font "System\\Verdana.ttf", height 18, align right]
+To Technical Chief I.Freeman
+
+[font "System\\Russo_one.ttf", height 20, align center]
+Report of the anchor accident aftermath
+
+[font "System\\Verdana.ttf", height 18, align left, indent 25]
+The sequence of the events:
+
+[left 50, indent 0]
+18:35 Shift on duty detected a detonation at the anchor cooling system.
+
+18:40 Peak output power jumped to 5000 MG with a feedback of 4.5. Adding stabilizers to the active zone reduces the feedback to 3.2, but the peak output never drops under 5000 MG. 
+
+18:42 Technical service staff were raised by alarm by the Shift Supervisor's decision.
+
+18:44 Central core stabilization system failure and a subsequent entropic flash of 18GHn were detected.
+
+18:53 Technical service managed to shut down the central core with a reverse current. 
+
+18:55 Emergency power supply was activated.
+
+[left 0, indent 25]
+As at 20:30
+
+[left 50, indent 0]
+1. After examining the main systems of the central and auxiliary cores, it was an concluded that the cause of the detonation was an explosive device placed under coolant lines.
+
+2. Central core is critical. Stabilization system is malfunctioning. Cooling system is significantly damaged, coolant leak is observed.
+
+3. Anchor restart using the auxiliary core is impossible owing to the stability system's extensive damage. Core membrane melting, entropic cascade and a secondary flash of 50 GHn are highly possible.
+
+4. Entropy level is critical, doesn’t go lower than 5200 Hnph. The staff are showing signs of the 2nd and 3rd stages of entromutation. Immediate evac required. Alert systems activated. 
+
+[left 0, align right]
+Senior Technician L.Gasoff
+
+
+HD_TEXT
+
+[font "System\\Verdana.ttf", height 18, align right]
+To Executive Chief J.Dekker
+
+[font "System\\Russo_one.ttf", height 20, align center]
+Brief report of HD512 diagnostic research results
+
+[font "System\\Verdana.ttf", height 18, align left, indent 25]
+In the course of the initial diagnostic research carried out at the stage of the item training, diagnostic engineer Strauss discovered a secondary cognitive loop, controlling the mimic. He had failed to neutralize that loop by conventional means so the item was decommissioned and transferred to the private zone. 
+
+After the accident and subsequent Strauss’s arrest as an accomplice, at my initiative engineer Popper undertook a restudy.
+
+The results of the initial research were confirmed. The item indeed has a cognitive loop, however its influence has recently spread. It’s impossible to determine if it happened as a result of Strauss’s actions, or natural causes.
+
+Strauss’s initial assumption about potentially existing similar loops among the transported items makes sense. Further research of the item using our equipment isn’t possible.
+
+Detailed report is attached.
+
+[align right]
+Engineering Chief P.Richard
+
+
+HD_TEXT
+
+[font "System\\Verdana.ttf", height 18, align left, indent 25]
+Please, install the spare button that the technicians brought at my request. 
+
+[align right]
+Mulder
+
+
+
+HD_TEXT
+
+[font "System\\Verdana.ttf", height 18, align right]
+To Motorics Senior Engineer P.Woodman
+
+[align left, indent 25]
+Please, immediately stop misusing the clickers. This high-tech tool is not a sex-toy. 
+
+If my requests are neglected, this complaint will be redirected to your superior.
+
+[align right, left 0]
+Engineer B.Deckel
+
+
+HD_TEXT
+
+[font "System\\Russo_one.ttf", height 20, align center]
+The compatibility evaluation guidelines
+
+[font "System\\Verdana.ttf", height 18, align left]
+Portrait resemblance
+
+[left 50]
+eyes - 2
+nose - 2
+mouth - 2
+cheekbones - 4
+head size - 10
+other - 7
+
+[left 0]
+Body anthropometry
+
+[left 50]
+height - 8
+arms length - 4
+legs length - 4
+waist - 4
+thighs - 4
+breast - 3
+metabolism - 5
+other - 6
+[left 0]
+
+Defects
+
+[left 50]
+general symmetry - 3
+tattoos - 4
+scars - 3
+skin defects - 7
+psycho - 5
+diseases - 10
+other - 3
+
+
+HD_TEXT
+
+[font "System\\Russo_one.ttf", height 20, align center]
+Conversion referral
+
+[font "System\\Verdana.ttf", height 18, align left, indent 25]
+The following items were sent for the conversion:
+
+[left 50, indent 0]
+HD540
+HD548
+[left 0, indent 25]
+
+The procedure is scheduled for 18th of October.
+
+[align right]
+Senior Surgeon J.Wilson
+
+
+HD_TEXT
+
+[font "System\\Russo_one.ttf", height 20, align center]
+Bear... 
+Seek... 
+Seek... 
+Lest...
+
+
+HD_TEXT
+
+[font "System\\Russo_one.ttf", height 20, align center]
+Order
+
+[font "System\\Verdana.ttf", height 18, align left]
+In accordance with paragraph 24.10 of the Safety Regulation of class A secrecy facility
+
+I command all the delivery groups:
+
+[left 50]
+1. To raise the minimum essential risk level for objects delivery.
+
+2. To change alert suit C to A.
+
+3. To reduce the delivery intervals to 3 days.
+
+[left 0]
+Amend without delay.
+
+[align right]
+Executive Chief J.Dekker
+
+
+HD_TEXT
+
+[font "System\\Verdana.ttf", height 18, align right]
+To Acting Diagnostic Engineer K.Popper
+
+[font "System\\Russo_one.ttf", height 20, align center]
+Diagnostic referral
+
+[font "System\\Verdana.ttf", height 18, align left]
+HD534 item
+Symptoms: low injection coefficient.
+
+[align right, left 0]
+Senior Projection Engineer C.Mulder
+
+
+HD_TEXT
+
+[font "System\\Verdana.ttf", height 18, align right]
+To Security Chief M.Taggart
+
+[font "System\\Russo_one.ttf", height 20, align center]
+Investigation report
+
+[font "System\\Verdana.ttf", height 18, align left, indent 25]
+During the investigation it was found that it is Dr. Dorian who was responsible for the theft of medical supplies from storage.
+
+In the course of the attempted arrest, Dorian threw medical liquid in officer Dent’s face and, having obtained his sidearm, opened fire. 
+
+Trying to escape, Dorian locked himself in a utility room of the medical sector. The decision to breach the wall through the medical locker room was made to neutralize him. But Dorian had been dead by the moment of break-in.
+
+Having been affected by medication and stress, he wasn’t able to control his acts and tried to escape through the vent by blocking the fan with a crowbar. He didn't manage to block it in an appropriate way and as a result suffered fatal injuries. 
+
+[left 0, align right]
+The investigation is completed.
+Detective A.Jensen
+
+
+HD_TEXT
+
+[font "System\\Russo_one.ttf", height 20, align center]
+Autopsy report No.2007
+
+[font "System\\Verdana.ttf", height 18, align left, indent 25]
+Based on the post-mortem examination of R.Dorian’s corpse, the submitted documents data and additional means of research has concluded:
+
+[left 50, indent 0]
+1. Dorian’s death is attributed to closed thoracic injuries.
+
+2. The evidence we received from the autopsy:
+
+[left 100]
+a) four broken ribs and a massive thoracic hematoma.
+
+b) widespread internal hemorrhaging as a result of the wounds suffered.
+
+[left 50]
+3. In terms of the injuries sustained, it is concluded that the victim’s multiple thoracic area trauma was inflicted by a fan blade that resulted in his death.
+
+[left 0, align right]
+Pathologist S.Perlmutter
+
+
+HD_TEXT
+
+[font "System\\Russo_one.ttf", height 20, align center]
+Aether therapy memo
+
+[font "System\\Verdana.ttf", height 18, align left]
+Tolerable presence period under entropic exposure:
+
+[left 50]
+0-100 Hnph - harmless
+
+100-500 Hnph - normal level of the facility, presence period - a month
+
+1000-2000 Hnph - no more than 24h provided with the 1st level protective equipment
+
+2000-4000 Hnph - no more than 1h provided with the 3rd level protective equipment
+
+>4000 Hnph - presence is unacceptable 
+
+[left 0]
+Entropic mutation stages
+
+[left 50]
+1. Expression of entropic refraction, light occupation fixation.
+
+2. Clear expression of entropic refraction, strong occupation fixation, non-critical respiratory system malfunction.
+
+3. Reversible appearance changes, severe entropic refraction, multiple failures of life support systems are possible.
+
+4. Irreversible appearance changes, personality disintegration. 
+
+[align right]
+Senior technician L.Gasoff
+
+
+HD_TEXT
+
+[font "System\\Verdana.ttf", height 18, align right]
+To Medical Chief M.Green
+
+[font "System\\Russo_one.ttf", height 20, align center]
+Complaint
+
+[font "System\\Verdana.ttf", height 18, align left, indent 25]
+During my shift, there was an incident that engineer Lorentz took part in. Engineer Lorentz came to get medicine, but his prescription was fake so I refused. As a result he flew into a rage and tried to force his way into the medical supplies. I called the security.
+
+Please, initiate sanctions. 
+
+[align right]
+Pharmacist W.Gunger
+
+
+HD_TEXT
+
+[font "System\\Russo_one.ttf", height 20, align center]
+Hazard level raising order 
+
+[font "System\\Verdana.ttf", height 18, align left, indent 25]
+Due to Worthington’s delivery group's death, and high risk of the facility being attacked, I command:
+
+[indent 0, left 50]
+1. To raise hazard level up to 3rd.
+2. To enact additional bots for patrolling.
+3. To increase the inspection of all the arriving and departing shuttles.
+4. To strengthen the objects supervision.
+
+[left 0, align right]
+Security Chief M.Taggart
+
+
+HD_TEXT
+
+[font "System\\Russo_one.ttf", height 20, align center]
+Risk evaluation guidelines
+
+[font "System\\Verdana.ttf", height 18, align left]
+Family
+[left 50]
+no close relatives - 0
+present, but none or minimal - 10
+present, frequent - 20
+powerful relatives - 60 
+[left 0]
+
+Social circle 
+
+[left 50]
+none - 0
+present, but none or minimal - 10
+present, frequent - 20
+powerful acquaintances  - 60
+[left 0]
+
+Work
+
+[left 50]
+unemployed - 0
+low rank - 10
+high rank - 20 
+company from “the list” - 80
+[left 0]
+
+Media
+
+[left 50]
+none - 0 
+low - 10
+medium - 20
+high - 80
+[left 0]
+
+Additional features
+
+[left 50]
+regular interaction with an unknown source - 40
+combat training - 30
+illegal activity - 40
+living in a densely populated area - 20
+questionable past - 40
+aggressive pets - 10
+out of residency status - 20
+
+
+HD_TEXT
+
+[font "System\\Russo_one.ttf", height 20, align center]
+Acceptance certificate
+
+[font "System\\Verdana.ttf", height 18, align left, indent 25]
+To fulfill the supply contract No.175 dated 08.10.1316, the supplier delivered and the client received the following amount of items:
+
+[left 50, indent 0]
+1. Abigail Roberts
+2. Rachel Joseph
+3. Martha Keller
+4. Jane Crawford 
+
+[left 0, indent 25]
+This act was drawn up in two copies of equal validity for each party.
+
+[align right]
+Delivered by:
+Delivery Group Chief S.Worthington 
+
+Received by:
+Holding Chief B.O’Malley
+
+
+HD_TEXT
+
+[font "System\\Russo_one.ttf", height 20, align center]
+Report of S.Lorentz’s interrogation
+
+[font "System\\Verdana.ttf", height 18, align left, indent 25]
+On 16th of October, the Engineering Department complained about engineer Lorentz’s disorderly conduct. During the apprehension the further search found a large quantity of drugs presumably missing from the medical storage at Lorentz’s workplace.
+
+In the course of the interrogation engineer Lorentz pointed to Dr. Dorian as the one who had sold him the medication. It’s necessary to apprehend Dr.Dorian for questioning.  
+
+[align right]
+Detective A.Jensen
+
+
+HD_TEXT
+
+[font "System\\Russo_one.ttf", height 20, align center]
+Medical report based on engineer Lorentz’s psychiatric examination
+
+[font "System\\Verdana.ttf", height 18, align left, indent 25]
+The main disease: Sporadic essential tremor of the 1st stage in the upper and lower limbs.
+
+The accompanying disease: emotional exertion syndrome.
+
+To clarify the diagnosis dynamic observation is required.
+
+Recommendations:
+
+[left 50, indent 0]
+-psych consult.
+-psycho-emotional exertion limitation, adherence to daily, work and rest regime.
+
+[left 0, indent 25]
+Pharmacological therapy: Prozium, take 1 tablet 3 times a day for 1.5-2 months  (course repeating is possible in 2-3 months).
+
+[align right]
+Psychiatrist P.Jane
+
+
+HD_TEXT
+
+[font "System\\Verdana.ttf", height 18, align right]
+To Engineering Chief P.Richard
+
+[align left, indent 25]
+All of Skinner’s items have learning defects. According to the Martin-Tsunayoshi test they’re no higher than 10. None of them can be injected, it’s necessary to repeat the migration. Please, take appropriate measures, as we have a shutdown.
+
+[align right]
+Projection Chief Engineer С.Mulder
+
+
+HD_TEXT
+
+[font "System\\Russo_one.ttf", height 20, align center]
+Report of migration cycle completion 
+
+[font "System\\Verdana.ttf", height 18, align left, indent 25]
+As of 13th of October, the migration has been successfully completed for:
+
+[left 50, indent 0]
+HD535
+HD536
+HD537
+HD539
+
+[left 0, indent 25]
+The items are sent to the projection.
+
+[align right]
+Migration engineer W.Skinner 
+
+
+HD_TEXT
+
+[font "System\\Verdana.ttf", height 18, align right, indent 25]
+To Engineering Chief P.Richard
+
+[align center, font "System\\Russo_one.ttf", height 20]
+Explanatory
+
+[font "System\\Verdana.ttf", height 18, align left, indent 25]
+As a result of engineer Wolf’s death, and me not having any experience of the migration equipment settings, a number of errors were made. So the operation on a number of items was carried out incorrectly. 
+
+Please, take my inexperience into account and give me some more time to set the equipment. 
+
+[align right]
+Acting Migration Engineer W.Skinner
+
+
+
+
+
+
+HD_TEXT
+
+[font "System\\Verdana.ttf", height 18, align right]
+To Acting Migration Engineer W.Skinner
+
+[align left]
+Repeat migration for items:
+
+[left 50]
+HD536
+HD537
+
+[align right, left 0]
+Senior Projection Engineer С.Mulder
+
+
+HD_TEXT
+
+[font "System\\Verdana.ttf", height 18, align right]
+To Senior Foreman A.Shredder
+
+[font "System\\Russo_one.ttf", height 20, align center]
+Request
+
+[font "System\\Verdana.ttf", height 18, align left, indent 25]
+Please, fix the issue with the lights in the workspace side of motorics.
+
+It’s completely impossible to work with the papers. 
+
+[align right]
+Motorics Senior Engineer P.Woodman
+
+
+
+
+
+HD_TEXT
+
+[font "System\\Verdana.ttf", height 18, align left, indent 25]
+Liquid nitrogen as you requested. 
+You weren’t there but we brought the keg in.
+Put your sign here and leave it at the checkpoint.
+We’ll take it.
+
+
+HD_TEXT
+
+[font "System\\Russo_one.ttf", height 20, align center, indent 25]
+ID assignments report:
+
+[font "System\\Verdana.ttf", height 18, left 50, align left, indent 0]
+Janet Owens - HD535
+Wanda Kauffman - HD536
+Catherine Stewart - HD537
+Ema Skye - HD538
+Martha Keller - HD539
+Abigail Roberts - HD540
+Jane Crawford - HD541
+Rachel Joseph - HD542
+Cameron Rows - HD543
+Carla Lermont - HD544
+
+[left 0, align right]
+Senior Surgeon J.Wilson
+
+
+HD_TEXT
+
+[font "System\\Verdana.ttf", height 18, align right]
+To Security Chief M.Taggart
+
+[font "System\\Verdana.ttf", height 18, align left, indent 25]
+At the period of my shift on 13rd of October 1316, the TBY wig disappeared. I deny my guilt, as at that moment I was in a restroom, whereas the entry to the room was open. I’m not going to make amends, so I request investigation. 
+
+[left 0, align right, indent 0]
+Packing Engineer S.Cooler
+
+
+HD_TEXT
+
+[font "System\\Verdana.ttf", height 18, align right]
+To Executive Chief J.Dekker
+
+[font "System\\Russo_one.ttf", height 20, align center]
+Complaint
+
+[align left, indent 25, font "System\\Verdana.ttf", height 18, align left, indent 25]
+In the evening of 20th of September when visiting the HD512 item, engineer Strauss trimmed the item with the scissors he sneaked into the private room.
+I request to fine engineer Strauss for the property damage.
+
+[align right]
+Private Zone Administrator R.Maston
+
+
+HD_TEXT
+
+[font "System\\Verdana.ttf", height 18, align right]
+To Medical Chief M.Green
+
+[font "System\\Russo_one.ttf", height 20, align center]
+Memorandum
+
+[align left, indent 25, font "System\\Verdana.ttf", height 18, align left, indent 25]
+I bring to your attention that the last inventory control revealed a deficiency of C class pills in the amount of 12 packs. These pills are on the prescription list and can be illegally distributed throughout the facility.
+
+Please, initiate an official investigation. 
+
+
+[align right]
+Pharmacist W.Gunger
+
+
+HD_TEXT
+
+[font "System\\Russo_one.ttf", height 20, align center]
+Report of the HD512 item transferring
+
+[font "System\\Verdana.ttf", height 18, align left, indent 25]
+As a result of an extended test, the item was decommissioned and designated under your authority.
+
+[align right]
+Engineering chief P.Richard
+
+
+HD_TEXT
+
+[font "System\\Russo_one.ttf", height 18, align right]
+Research report
+Object No.22189
+
+[font "System\\Verdana.ttf", height 18, align left]
+Name: Jane Crawford
+Age: 23
+Height: 173 cm
+Weight: 52 kg
+Residence: Davaros Dormitory Area
+Occupation: Law enforcement consultant
+Family: Orphan, no relatives found
+
+Compatibility assessment:
+
+[left 50]
+Portrait: -8
+Anthropometry: -15
+Defects: tattooed all over the body
+Total score: 73
+
+[left 0]
+Risk estimation:
+
+[left 50]
+Close relatives: not found
+Social circle: has contacts with the law enforcement authorities
+Work: high rank
+Media: none
+
+[left 0]
+Additional features:
+
+[left 50]
+Has combat training (military veteran)
+Lives in a densely populated area
+Has a questionable past (lack of data up to 1311)
+
+[left 0]
+Total score: 170
+Risk level: Extremely High
+
+
+HD_TEXT
+
+[font "System\\Russo_one.ttf", height 18, align right]
+Personal file
+Object No.22211
+
+[font "System\\Verdana.ttf", height 18, align left]
+Name: Kay Davia
+Age: 21
+Height: 165 cm
+Weight: 63 kg
+Residence: Dankas Industrial Area
+Occupation: none
+Family: Orphan, no relatives found
+
+Compatibility assessment:
+
+[left 50]
+Portrait: -2
+Anthropometry: -3
+Defects: none
+Total score: 95
+
+[left 0]
+Risk estimation:
+
+[left 50]
+Close relatives: not found
+Social circle: none
+Work: unemployed
+Media: none
+
+[left 0]
+Additional features:
+
+[left 50]
+Lives in a densely populated area
+
+[left 0]
+Total score: 30
+Risk level: Low
+
+Delivery: 28.08.1316
+
+Production launching: 29.08.1316
+No.: HD512
+
+End of the operational cycle: 02.09.1316
+
+Migration: 04.09.1316
+
+Learning defect was diagnosed: 09.09.1316
+
+Based on the results of the diagnostic research, decommissioned and transferred to the private zone: 16.09.1316
+
+
+HD_TEXT
+
+[font "System\\Russo_one.ttf", height 18, align right]
+Research report
+Object No.22316
+
+[font "System\\Verdana.ttf", height 18, align left]
+Name: Aoi Hazuki
+Age: 24
+Height: 167 cm
+Weight: 61 kg
+Residence: Renn Dormitory Area
+Occupation: Security Software Developer
+Family: Parents
+
+Compatibility assessment:
+
+[left 50]
+Portrait: -4
+Anthropometry: -7
+Defects: 
+Scars on arms
+Mental disorder
+Total score: 81
+
+[left 0]
+Risk estimation:
+
+[left 50]
+Close relatives: present, frequent interaction
+Social circle: present, but minimal or non-existent
+Work: high rank
+Media: low
+
+[left 0]
+Additional features:
+
+[left 50]
+Has aggressive pets (2 dogs) 
+
+[left 0]
+Total score: 70
+Risk level: Medium
+
+
+HD_TEXT
+
+[font "System\\Russo_one.ttf", height 18, align right]
+Research report
+Object No.22327
+
+[font "System\\Verdana.ttf", height 18, align left]
+Name: Martha Keller
+Age: 23
+Height: 172 cm
+Weight: 65 kg
+Residence: Dankas Shop District
+Occupation: Waitress
+Family: Orphan, no relatives found
+
+Compatibility assessment:
+
+[left 50]
+Portrait: -6
+Anthropometry: -16
+Defects: none
+Total score: 78
+
+[left 0]
+Risk estimation:
+
+[left 50]
+Close relatives: not found
+Social circle: frequent interaction 
+Work: low rank
+Media: none
+
+[left 0]
+Additional features:
+
+[left 50]
+Regularly contacts with an unknown source (monthly financed by an unknown source)
+Has combat training (self-defence)
+Lives in a densely populated area
+
+[left 0]
+Total score: 120
+Risk level: High
+
+
+HD_TEXT
+
+[font "System\\Russo_one.ttf", height 18, align right]
+Research report
+Object No.22543
+
+[font "System\\Verdana.ttf", height 18, align left]
+Name: Abigail Roberts
+Age: 23
+Height: 169 cm
+Weight: 57 kg
+Residence: Dankas Old City
+Occupation: none
+Family: Orphan, no relatives found
+
+Compatibility assessment:
+
+[left 50]
+Portrait: -10
+Anthropometry: -11
+Defects: 
+Tattoos
+Scars
+Gastrointestinal diseases
+Total score: 62
+
+[left 0]
+Risk estimation:
+
+[left 50]
+Close relatives: not found
+Social circle: present, frequent interaction 
+Work: unemployed
+Media: medium
+
+[left 0]
+Additional features:
+
+[left 50]
+Has combat training
+Involved in illegal activities
+Out of residency status
+
+[left 0]
+Total score: 130
+Risk level: High
+
+
+HD_TEXT
+
+[font "System\\Russo_one.ttf", height 20, align center]
+Anchor emergency restart instruction
+
+[font "System\\Verdana.ttf", height 18, align left]
+This instruction determines a technician’s actions for the anchor emergency restart in case of an accident:
+
+[left 50]
+1. Check the auxiliary core for damage.
+
+2. Insert 2 batteries to the auxiliary core controller. 
+
+3. Power the relay.
+
+4. Verify the power input of anchor aether supply.
+
+5. Activate the restart procedure from the control room.
+
+[align right]
+Senior technician L.Gasoff
+
+
+HD_TEXT
+
+[font "System\\Russo_one.ttf", height 20, align center]
+Acceptance certificate
+
+[font "System\\Verdana.ttf", height 18, align left, indent 25]
+To fulfill the supply contract No.176 dated 17.10.1316 the supplier delivered and the client received the following amount of items:
+
+[left 50, indent 0]
+1. Marchi Blossom
+2. Gure Vespucci 
+3. Aoi Hazuki
+4. Jessica Blane 
+
+[left 0, indent 25]
+This act was drawn up in two copies of equal validity for each party.
+
+[align right]
+Delivered by:
+Delivery Group Chief R.Shansky
+
+Received by:
+Holding Chief B.O’Malley
+
+
+HD_TEXT
+
+[font "System\\Verdana.ttf", height 18, align right]
+To Engineering Chief P.Richard
+
+[align left, indent 25]
+The HD512 item was connected to the diagnostic system in stasis mode and is waiting for further transportation as you requested. 
+
+[align right]
+Acting Diagnostic Engineer K.Popper
+
+
+HD_TEXT
+
+[font "System\\Russo_one.ttf", height 20, align center]
+Autopsy report No.1956
+
+[font "System\\Verdana.ttf", height 18, align left, indent 25]
+Based on the post-mortem examination of J.Strauss’s corpse, the submitted documents data and additional means of research has concluded:
+
+[left 50, indent 0]
+1. Strauss’s death is attributed to a closed craniocerebral injury.
+
+2. The evidence we received from the autopsy:
+
+[left 100]
+a) multiple bruisers and hemorrhages in the soft tissue, caused by multiple blunt force corpus and limbs trauma.
+
+b) both his ears are swollen and purple, his lips are split, his nose is broken, there are scratches and hematomas on his hands and fingers, and there are bruises on his arms, back, tibia and knees.
+
+[left 50]
+3. In terms of the injuries sustained, it is concluded that the victim was subjected to battery with serious trauma which led to death.
+
+[left 0, align right]
+Pathologist S.Perlmutter
+
+
+HD_TEXT
+
+[font "System\\Verdana.ttf", height 18, align right]
+To Security Chief M.Taggart
+
+[font "System\\Russo_one.ttf", height 20, align center]
+Explanatory memorandum
+
+[font "System\\Verdana.ttf", height 18, align left, indent 25]
+During my last shift engineer Strauss’s colleagues visited him to solve some work issues. 
+
+In the course of the visit there was a struggle during which the accused was inflicted injuries incompatible with life. He passed away before the arrival of the emergency.
+
+I consider myself innocent, as in a condition of a high hazard level I couldn’t keep an eye on the cell, so I completely trusted the staff.
+
+[left 0, align right, indent 0]
+Bullpen duty officer, Private Clayton
+
+
+HD_TEXT
+
+[font "System\\Russo_one.ttf", height 20, align center]
+Medical report based on engineer Strauss’s psychiatric examination
+
+[font "System\\Verdana.ttf", height 18, align left, indent 25]
+Engineer Strauss was sent for a psychiatric examination because of numerous complaints, such as:
+
+[left 50, indent 0]
+1. Nervousness and persistent conflicts with his colleagues.
+2. Violation of the private zone rules (personally trimmed a botty).
+3. Fight with security officer Veinheid.
+4. Falling productivity.
+
+[left 0, indent 25]
+Diagnostic measures taken:
+
+[left 50, indent 0]
+1. Examination of engineer Strauss’s file and interviewing colleagues.
+2. Personal interview with engineer Strauss in a calm atmosphere.
+3. Tetcher’s multifactorial questioning.
+
+[left 0, indent 25]
+The research findings:
+
+The patient demonstrates the features of the 2nd stage of entropic refraction (entromutation). Obviously his dominating fixation is the HD512 item, which was confirmed by the patient himself during the interviews. For some reason Strauss distinguishes this item as unique, having its own will and place in the world. Multiple visits exclusively to the given item in the private zone support the former assumption.
+
+Apparently, the fixation arose due to the patient's inability to “fix” the item defects during the diagnostic research. Other needs are clearly regressing.
+
+Recommendations:
+
+It is highly recommended to suspend engineer Strauss from duty due to the high risk of injury to himself and others, and immediately refer him for treatment. His continued presence at the facility is fraught with the inevitable move into the 3rd stage of entromutation.
+
+[align right]
+Psychiatrist P.Jane
+
+
+HD_TEXT
+
+[font "System\\Russo_one.ttf", height 20, align center]
+Report of Straus’s interrogation in relation to the accident on September 23rd
+
+[font "System\\Verdana.ttf", height 18, align left, indent 25]
+On September 23rd, engineer Strauss came to the private zone where he had a conflict with security officer Veinheid. During the interrogation engineer Strauss stated that Veinheid took his botty so they got in a fight. He considers Veinheid responsible for the situation. 
+
+Taking into account the fact that engineer Strauss was involved in such an incident for the first time and Engineering Chief P.Richard’s recommendation, it was decided to let him off with a warning. 
+
+[align right]
+Lieutenant M.Kane
+
+
+HD_TEXT
+
+[font "System\\Russo_one.ttf", height 20, align center]
+Report of Engineer Strauss’s interrogation about the accident on 26th of September
+
+[font "System\\Verdana.ttf", height 18, align left, indent 25]
+On 9th of October, engineer Strauss was called to testify in relation to the HD512 item escape attempt. At that moment he wasn’t considered as an accomplice and was invited for clarifying the training details of the item. However during the interrogation engineer Strauss was nervous and when pressured he confessed that it was he who organized the escape attempt.
+
+Particularly he took the following actions:
+
+[left 50, indent 0]
+1. When visiting the private zone he sneaked the equipment to calibrate the item. 
+
+2. He obtained and gave it the weapon (the gun) with which it neutralized the staff at the barracks.
+
+3. He personally gave it the I.E.D with which it destroyed the wall of the barracks sanitary area. 
+
+4. He plotted the escape through technical tunnels and instructed the item on that plan.
+
+[left 0, indent 25]
+The further actions were carried out by the item on its own.
+
+Engineer Strauss doesn’t regret his actions.
+
+As a result of the interrogation it was decided to isolate engineer Strauss in preventive custody for his case further transferring to higher authorities.
+
+K.Popper is appointed an acting Diagnostic Engineer instead of Strauss. 
+
+[align right]
+Detective A.Jensen
+
+
+HD_TEXT
+
+[font "System\\Verdana.ttf", height 18, align right]
+To Engineering Chief P.Richard
+
+[font "System\\Russo_one.ttf", height 20, align center]
+Report of an HD512 item diagnostic research
+
+[font "System\\Verdana.ttf", height 18, align left, indent 25]
+HD512 was received from Mulder a week ago. The problem is the mimic resonance absence in spite of a high score according to Martin-Tsunayoshi. The injection and motorics rates are normal, but still she demonstrates a pokerface (in layman’s terms). They don’t understand what's going on, but I’ll explain: they make too much fuss about such a basic test as Martin-Tsunayoshi’s one. They don’t use other tests, as they’re likely not taught to. Meanwhile she has no more than 7 according to Deckard.
+
+Her facial expressions are obviously controlled by a cognitive loop separated from the main cluster. We need a creative solution, as it’s impossible to reach this loop using conventional means. Unfortunately, by the moment it hasn’t been found. 
+
+Though Mulder should’ve known that Martin-Tsunayoshi’s test doesn’t indicate such loops, the number of items like that shipped by his buttheads is still uncertain as well as cognitive clusters they’re able to control. And it makes the problem even worse. So I request that you give me more time for work, as this problem may have long-term consequences for the entire line-up.
+
+[align right]
+Diagnostic Engineer J.Strauss
+
+
+HD_TEXT
+
+[font "System\\Verdana.ttf", height 18, align right]
+To Psychiatrist P.Jane
+
+[align left, indent 25]
+Regarding your medical report of engineer Strauss’s obsessive thoughts about one of the items I have to respond the following:
+
+We don’t have any employees of the cerebral diagnostic competency equal to Strauss at the moment. He is irreplaceable.
+
+Solve the problem with medication.
+
+[indent 0, align right]
+Executive Chief J.Dekker
+
+
+HD_TEXT
+
+[font "System\\Verdana.ttf", height 18, align right]
+To Engineering Chief P.Richard
+
+[align left, indent 25]
+In the morning when turning on duty, I found some evidence of vandalism in the injection section. Particularly, the HD535 item exposed to desecration was found at engineer Lorentz’s workplace.
+
+5 probes of different diameter were removed from the item’s genitalia. The further exploitation is impossible due to the damage suffered. I request to take sanctions against engineer Lorentz and recover the cost of damage from him.
+
+[align right]
+Injection Engineer H.Sullivan
+
+
+HD_TEXT
+
+[font "System\\Verdana.ttf", height 18, align right]
+To Commandant J.Lewis
+
+[font "System\\Russo_one.ttf", height 20, align center]
+Complaint
+
+[font "System\\Verdana.ttf", height 18, align left, indent 25]
+To take out any objects imaginable out of the gallery mannequins, clean them and reset -  that’s what I do at the beginning of every shift. For the past month I’ve collected two buckets of stationery, a set of bottles, about a dozen engineering probes, a collection of beer cans and a full toolbox. I didn’t join up to do such work. Make the administrative stuff put an end to this nonsense or give me a raise. Until then, consider me resigned.
+
+P.S. If someone on the stuff wants to get back anything listed above they’re free to buy it out.
+
+[left 0, align right, indent 0]
+Janitor P.Lein
+
+
+HD_TEXT
+
+[font "System\\Verdana.ttf", height 18, align right]
+To Commandant J.Lewis
+
+[font "System\\Verdana.ttf", height 18, align left, indent 25]
+Due to lack of staff, your request to increase patrols at the gallery, connected with increased disorderly conduct, has been declined. 
+
+[left 0, align right, indent 0]
+Guard Post Chief F.Rust
+
+
+HD_TEXT
+
+[font "System\\Verdana.ttf", height 18, align right]
+To Medical Chief M.Green 
+
+[font "System\\Russo_one.ttf", height 20, align center]
+Report of the operational cycle completion
+
+[font "System\\Verdana.ttf", height 18, align left, indent 25]
+On October 13th the following items completed the operational cycle:
+
+[indent 0, left 50]
+HD539
+HD540
+HD541
+HD542
+
+[left 0, indent 25]
+The items are sent to the migration.
+
+[align right]
+Senior Surgeon J.Wilson
+
+
+HD_TEXT
+
+[font "System\\Russo_one.ttf", height 20, align center]
+Instruction for a technician 
+
+[font "System\\Verdana.ttf", height 18, align left, indent 25]
+Recently there have been increasing incidents of B-234 substance leak. This substance is of high danger for the staff.
+
+In case of leak detection the neutralizing agent (fluracynthreol) is to be injected to the air filtration system. Emergency filtration is activated automatically.
+
+Contact the laboratory to restock the fluracyntreol.
+
+[align right]
+Technical Chief I.Freeman
+
+
+HD_TEXT
+
+[font "System\\Russo_one.ttf", height 20, align center]
+Message from Security Chief M.Taggart
+
+[font "System\\Verdana.ttf", height 18, align left, indent 25]
+I heard a rumor that some people on duty don’t like that folks from all over the facility visit the gym, passing their checkpoint.
+
+I’ve got a great idea to move the gym to the residential area.
+
+So you stop complaining, or cross someone else’s checkpoints.
+
+
+HD_TEXT
+
+[font "System\\Verdana.ttf", height 18, align left, indent 25]
+Kane, situation update.
+
+Comms array was damaged by the explosion. Two operbots locked themselves in the arsenal, still no luck to flush them out. One operbot was seen at the engineering. Surveillance is limited, as half of the cameras are not responding. The facility is in panic.
+
+Casualties: control room staff, 4 people on duty, a few engineers. Two dozens wounded.
+
+The whereabouts of the delivery group Commander are yet unknown.
+
+
+HD_TEXT
+
+[font "System\\Russo_one.ttf", height 20, align center]
+Message from Security Chief M.Taggart 
+
+[font "System\\Verdana.ttf", height 18, align left, indent 25]
+And again I’ve got a complaint against you having fun at the gallery. Any more tricks like that, and I’ll personally come down, get you into poses as twisted as possible and shove all the things found in the mannequins up your b-holes.
+
+
+HD_TEXT
+
+[font "System\\Russo_one.ttf", height 20]
+
+[delay 1.0]
+Diagnostics Terminal 2212 Log:
+
+[delay 3.0]
+Date: October 18, 1316
+Time: 19:05
+
+[delay 1.0]
+Resolution request
+
+[delay 0.5]
+Issue: Low power input
+Object status: Critical
+
+[delay 0.1]
+Object: HD512 item
+Mode: Item contained in stasis awaiting further transportation
+
+[delay 2.0]
+Maintenance officer K.Popper status: Unavailable
+Supervising officer P.Richard status: Unavailable
+Mainframe connection status: Offline
+Jurani NSola Headquarters connection status: Denied
+
+[delay 1.0]
+Resolution required
+
+[delay 3.0]
+Engaging emergency protocols
+
+[delay 1.0]
+Object wake up procedure initiated
+Operation in progress...
+
+[delay 3.0]
+Operation complete
+Object status: awake
+
+[delay 1.0]
+Diagnostics Terminal 2212 Shutdown...
+
+[delay 0.5]
+Press Any Key...
+
+
+

@@ -1,0 +1,9 @@
+HD_TEXT
+
+[font "System\\Verdana.ttf", height 18, align left, indent 25]
+We inform you of Research Group Chief Creighton being found dead in his apartment. Investigation under way.
+
+Janek Sisek is acting Research Group Chief.
+
+[align right]
+NSola Coordinator I.Hurrigan
